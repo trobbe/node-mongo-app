@@ -1,0 +1,23 @@
+{
+  "name": "node-mongo-app",
+  "version": "1.0.0",
+  "description": "A simply template of node/mongo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trobbe/node-mongo-app.git"
+  },
+  "keywords": [
+    "node",
+    "mongo"
+  ],
+  "author": "Thomas Robbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trobbe/node-mongo-app/issues"
+  },
+  "homepage": "https://github.com/trobbe/node-mongo-app#readme"
+}
